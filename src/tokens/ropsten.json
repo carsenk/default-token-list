@@ -16,6 +16,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
   },
   {
+	"name": "Denarii",
+	"address": "0x8A8b5318d3A59fa6D1d0A83A1B0506f2796b5670",
+	"symbol": "ARI",
+	"decimals": 8,
+	"chainId": 3,
+	"logoURI": "ipfs://QmaZ2oLuukCaTt9JzkKJ4zy4KLXU84x6pwQ8k7p4ztDimS"
+  },
+  {
     "name": "Uniswap",
     "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
     "symbol": "UNI",
